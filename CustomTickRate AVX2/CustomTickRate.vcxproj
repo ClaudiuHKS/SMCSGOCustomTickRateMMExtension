@@ -91,6 +91,7 @@
       <UseFullPaths>false</UseFullPaths>
       <ErrorReporting>None</ErrorReporting>
       <AdditionalIncludeDirectories>$(DET)\src;$(JSON)\single_include;$(MMS)\core;$(MMS)\core\sourcehook;$(CSGO)\public;$(CSGO)\public\toolframework;$(CSGO)\public\engine;$(CSGO)\public\game\server;$(CSGO)\public\game\shared\csgo\protobuf;$(CSGO)\public\tier0;$(CSGO)\public\tier1;$(CSGO)\public\mathlib;$(CSGO)\public\vstdlib;$(CSGO)\game\server;$(CSGO)\game\shared;$(CSGO)\common\protobuf-2.5.0\src;$(CSGO)\public\engine\protobuf;$(MYSQL)\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <BuildStlModules>false</BuildStlModules>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
